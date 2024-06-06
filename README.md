@@ -28,5 +28,5 @@ Executar: streamlit run Bolsa_Americana.py
 
 O projeto possui duas paginas sendo a citada acima a principal, primeira e única a ser executada. O restante se encaminha sozinho.
 
-Obs: A pasta .venv não veio junto com o commit, então é necessario realizar as instalações necessarias.
+Obs: A pasta .venv não veio junto com o commit, então é importante realizar as instalações necessarias.
 
